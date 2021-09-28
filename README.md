@@ -4,7 +4,7 @@
 This exercise works with an API and asynchronous code. It tracks real time buses locations in Boston, USA and displays on a map.
 
 ## How to run:
-https://rafaelfichtner.github.io/BusTrackerBoston/
+Click [here](https://rafaelfichtner.github.io/BusTrackerBoston/) to run the project.
 
 ## Roadmap for future improvements:
 - Select the vehycle to be followed.
